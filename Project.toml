@@ -1,0 +1,11 @@
+name = "FMM3D_jll"
+uuid = "62c264cc-5bfb-59d7-84eb-c0e4dde7f66b"
+version = "0.0.1+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

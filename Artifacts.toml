@@ -1,0 +1,378 @@
+[[FMM3D]]
+arch = "armv7l"
+git-tree-sha1 = "54320d4e5b4ec026a7a080a5413514cc648ebd30"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "f9db6f1dd63394326044927c4126b0762f64f147dfabebccad39eddda7cfb925"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "armv7l"
+git-tree-sha1 = "76d84b8667abba64a1473690d0795186e0bda23f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "9b3e5b499d04e765828308a1bd6e67102cab878f81a3711bd311d62416db15d1"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "149d99b791f2c3f8cc7790de83359387cbb8ca60"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[FMM3D.download]]
+    sha256 = "2563256114684941516374db230472ad83d767d09c91a9d77803b3a932dabee8"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "i686"
+git-tree-sha1 = "23309bb5035dd136301e3b95ad1613daae331568"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "89ff86685cb666b6990a0abcb030e15d56bb45994886bb728a755dee6bd1e1c4"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.i686-linux-musl-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "6b0ff87b6fca760ebd1e32b6e52f5d2714824e73"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[FMM3D.download]]
+    sha256 = "bb4a62aa98aae416e87325ffe5eaac97d82c5dba75889e49de77d7af04a2e24e"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "i686"
+git-tree-sha1 = "7e2abfec13cec6f5eaf6985d64f0f224a785acb4"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[FMM3D.download]]
+    sha256 = "99e13b607792591e3ae12d039dc8e1921543dab2219b667f6b2dbd84886011e1"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.i686-w64-mingw32-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "c5744709fd8d1f3cd92667134425f72877d35f36"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[FMM3D.download]]
+    sha256 = "8179858397aded4bfacc7596952dfb08f27374fbb5f86fff49b181376353bf0a"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "armv7l"
+git-tree-sha1 = "ef58678e029666df39e110ab334cd70c3e7df6ef"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "230a462ec0d33d34652f2ca9b396c3c2234ab6344e0a2e5377987b2aa26feec7"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "d505b461a244b0f2242253d90d8cad920c62308b"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[FMM3D.download]]
+    sha256 = "d4fb5d72eeba547d2cabcc77751c614e78e01402ccd29556c241b0e0271dcf92"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "powerpc64le"
+git-tree-sha1 = "9edf84ef8d44bdade8e146d105a8fcaabc34cf69"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "a8c35fc466986fab385d9921c78bdb237ffb7361beeb35c429b268a5b9c07f17"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "armv7l"
+git-tree-sha1 = "8c69c49e901717d7cb1eda675faa84687a001af2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "34501ba9d8bb194158cfe711f2c94c63d743cd8a1cb24bbd470105968db55ac9"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "3fbdaebe6abee67ac66fce973dfafc48105d2830"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "04f1640a80babcabf74acc6c082e26d5a0b344e6a2db0fe294332ddf6a7babf8"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "c86ab7a74844d1f4cedc42d74493025cbee5e36b"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "4dc7d6509d7e3b957150ce204c463fe5b2e66a208e6a373bba74195ce29d9000"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-linux-musl-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "aarch64"
+git-tree-sha1 = "3cd12cff98c61505f948f5e8c195a924fdc7d50a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "c23b85c4d1f81d9a55eeedc73de5b752eb631b81b4d5cd113f7aba1d2817c319"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "powerpc64le"
+git-tree-sha1 = "095b8d98046e0fcd530b6b9659856713039f2e40"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "0d4bccf4736896e9919cb23d124e0ad6f975c39f4e30af6c12ff6bff5d9f1412"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "fde2c86e592a28b9520de59bce40836875290c87"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[FMM3D.download]]
+    sha256 = "91998863aea092bdf9ed5136bb73fcb1991c027819594ccdf4523bc19643cf71"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-apple-darwin14-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "53ad2313ba625709840e4aa27e5439175bbbc2eb"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[FMM3D.download]]
+    sha256 = "ae2d7cc658d0fc7a50d119b5500209f9207401656d75c2c5d0214694c1b9c6e8"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-apple-darwin14-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "armv7l"
+git-tree-sha1 = "32812e387afe189952879ea599271f80563da833"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "58af11c91da4331fb3ea09b1f1324e1c85780ae39a5a822c2cd0322b04dd78b8"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "6974739f95fbfed16fc3b9515aecddd0183ca833"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[FMM3D.download]]
+    sha256 = "e2663b64a9a814032358aac21a5e81f46be7a092382261576c657ec8ec0597db"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "i686"
+git-tree-sha1 = "36dfa584fab9abc068754704c15b4397e43ef19a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "7fb62e6eb8b2ca19934b14c1832c2718375d5464353f159ff34e14a56f387f59"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.i686-linux-gnu-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "i686"
+git-tree-sha1 = "822dfb48f91886c9b13523c5d9c5259dad531d69"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "a6969e59a98c06d6d107324114adf02242db0af219f470b5a1706655935f286c"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.i686-linux-gnu-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "bae0b9e64b0457d1a74bd6f472521786633f187d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "a3d4cade853f95efe1c4d6cdb6707f335a391e680cbd3fbbf1248036057d5197"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "aarch64"
+git-tree-sha1 = "1b1fa51cf9ee6584745c192b1caf10a013af38eb"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "0fac77eb4497e709375d7679bf7db4499d7bd0a79773d2459161fe5d63b25528"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "d894e5e6610d24024f5cc1608b1bd7a8ddfcad9d"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[FMM3D.download]]
+    sha256 = "00854a4f113431d1416f1f7c9389379d20801dbf0af77081795358af3e0d1e5f"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "i686"
+git-tree-sha1 = "a52922ff461499a35e40bdf54d1628e8dd753e5c"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[FMM3D.download]]
+    sha256 = "30239ea6adbfd29706ac8f704db9f0d8415b72bf191343a746e10b3e9a2ea9c4"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.i686-w64-mingw32-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "1143720530d34d608cabbdcaafdf1090117d59d0"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "e7eccbfc704c1a2a47b606310f0b9c7b20601e2816da9e13d31a0eca32987bc9"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "9b37aa2371a93b3b67c0f9f9bf524de2886eb13f"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "a836770e6d4c4d2d5ecba29075febefd738de017f098a8a5c1c7cca4878c4532"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-linux-musl-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "i686"
+git-tree-sha1 = "af2e94c9599d88f50ad981e6d81c5bff0b053e3b"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[FMM3D.download]]
+    sha256 = "7fceb0fa92115ce40b89f66f07e4c9b8056232b6596f66db45df171db2af16eb"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.i686-w64-mingw32-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "07c3c9db9484c5d5a7610c01ed5d36c8553fb07c"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[FMM3D.download]]
+    sha256 = "174c5a6fe5f4837dc620712fcb3a5feac373f1b4211ee08b0facebeca520b984"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "i686"
+git-tree-sha1 = "11f809280b4a48a6d4c1bb61e0a1a40a26e6f29a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "e88fa50d30b3a517f0e43979fd3b3ad7377df34637ab2f912918261fc44057f1"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.i686-linux-gnu-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "aarch64"
+git-tree-sha1 = "135066dd34ed04822591130d7097a6e38cd95a9b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "1555298007f69914d8c6d1d1cb45aea8f77c7c90194c98a05a9fee212299a2f3"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "i686"
+git-tree-sha1 = "2419acb2337dd119021da3ee2e5b5f3d7ea9b8fd"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "8e10b0634beaa9efc1e41e479cd6c230006bfdaf10c9365a4c4e8aea399a3cc1"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.i686-linux-musl-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "i686"
+git-tree-sha1 = "10704dde506a4c8fff2efd943ef621a50f34e663"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "e1c444bdde71218094ca9544cbae944bcbafd14e9e7e5e0f3d3b12a761dc53d1"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.i686-linux-musl-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "x86_64"
+git-tree-sha1 = "2d074864ad903a021310c0b5e022623fd66adb55"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "c99b3a63d02a657a3cfdc49bd3252cf4e735284807d6e7affc4e4f1b1fec16d7"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.x86_64-linux-musl-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "aarch64"
+git-tree-sha1 = "1694a505c8f6087d11876789dbcce71d97d732e3"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "9aaf083042b044df5bbbf8a2aa33cc0d2387eec4baea5cd608240a76103cfd3b"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.aarch64-linux-musl-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "powerpc64le"
+git-tree-sha1 = "3e06f8b59a49cc3ba68a6d775b5bcce2026418df"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "f3b448fe262421f2bc6cab76b240452076848a75fbc131eae9ff8b3fb21adda1"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[FMM3D]]
+arch = "aarch64"
+git-tree-sha1 = "d2acc31c567c4a45b9b35187cf00c4eb1ebcf6f3"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "9ff8dbf6e74ef4c992edba9d14482263fa80d12adf508f3661009706beb200f4"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.aarch64-linux-musl-libgfortran4.tar.gz"
+[[FMM3D]]
+arch = "aarch64"
+git-tree-sha1 = "221ea7f7a87eda5b6b9eb0d81071f0e42dc30c11"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "b38c01032b29f9a32f1e7d56700c3cfc30b110868a97b53cfc8dee0b6b53bd5c"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.aarch64-linux-musl-libgfortran5.tar.gz"
+[[FMM3D]]
+arch = "armv7l"
+git-tree-sha1 = "e0d2fc36f0d6bd73751e47943d32a572e4ff27b2"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FMM3D.download]]
+    sha256 = "eed4cc55ee644035b0f884ade7341fadab350bc4c0c68318427d0f0ac1abb287"
+    url = "https://github.com/JuliaBinaryWrappers/FMM3D_jll.jl/releases/download/FMM3D-v0.0.1+0/FMM3D.v0.0.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
